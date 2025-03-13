@@ -1,0 +1,8 @@
+{
+    "repair_label": "Repair vehicle",
+    "repair_start": "Repairing vehicle...",
+    "repair_done": "Vehicle repaired!",
+    "repair_cancelled": "Repair cancelled.",
+    "vehicle_already_fixed": "Vehicle is already fully repaired."
+}
+  

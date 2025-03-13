@@ -1,0 +1,7 @@
+{
+    "repair_label": "Repareer voertuig",
+    "repair_start": "Voertuig repareren...",
+    "repair_done": "Voertuig gerepareerd!",
+    "repair_cancelled": "Reparatie geannuleerd.",
+    "vehicle_already_fixed": "Voertuig is al volledig gerepareerd."      
+}
