@@ -1,3 +1,4 @@
+lib.versionCheck('ThatsJohnny/ox_repairkit')
 lib.callback.register('removeRepairKit', function(source)
     local player = source
     local success = exports.ox_inventory:RemoveItem(player, Config.Item, 1)
