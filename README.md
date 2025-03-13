@@ -3,16 +3,16 @@
 A simple vehicle repair script using **ox_lib, ox_inventory, and ox_target**. No unnecessary extras—just a smooth and functional repair system with animations, a progress bar, and proper item usage.
 
 <p align="center">
-  <a href="https://github.com/ThatsJohnny/ox_repairkit">
+  <a href="https://github.com/ThatsJohnny/ox_repairkit" style="margin-right: 5px;">
     <img src="https://img.shields.io/github/downloads/ThatsJohnny/ox_repairkit/total?logo=github" alt="Repo Downloads">
   </a>
-  <a href="https://github.com/ThatsJohnny/ox_repairkit/graphs/contributors">
+  <a href="https://github.com/ThatsJohnny/ox_repairkit/graphs/contributors" style="margin-right: 5px;">
     <img src="https://img.shields.io/github/contributors/ThatsJohnny/ox_repairkit?logo=github" alt="Contributors">
   </a>
-  <a href="https://github.com/ThatsJohnny/ox_repairkit/releases">
+  <a href="https://github.com/ThatsJohnny/ox_repairkit/releases" style="margin-right: 5px;">
     <img src="https://img.shields.io/github/v/release/ThatsJohnny/ox_repairkit?logo=github" alt="Release">
   </a>
-  <a href="https://github.com/ThatsJohnny/ox_repairkit/releases/latest">
+  <a href="https://github.com/ThatsJohnny/ox_repairkit/releases/latest" style="margin-right: 0;">
     <img src="https://img.shields.io/github/downloads/ThatsJohnny/ox_repairkit/latest/total?logo=github" alt="Downloads@Latest">
   </a>
 </p>
