@@ -1,6 +1,8 @@
 # ox_repairkit  
 
-A simple vehicle repair script using **ox_lib, ox_inventory, and ox_target**. No unnecessary extras—just a smooth and functional repair system with animations, a progress bar, and proper item usage.  
+A simple vehicle repair script using **ox_lib, ox_inventory, and ox_target**. No unnecessary extras—just a smooth and functional repair system with animations, a progress bar, and proper item usage.
+
+![Downloads](https://img.shields.io/github/downloads/ThatsJohnny/ox_repairkit/total.svg)
 
 ## Features  
 - Uses **ox_lib** for progress bars and notifications  
