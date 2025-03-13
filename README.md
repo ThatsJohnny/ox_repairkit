@@ -2,7 +2,12 @@
 
 A simple vehicle repair script using **ox_lib, ox_inventory, and ox_target**. No unnecessary extras—just a smooth and functional repair system with animations, a progress bar, and proper item usage.
 
-![Downloads](https://img.shields.io/github/downloads/ThatsJohnny/ox_repairkit/total.svg)
+<p align="center">
+  ![Downloads](https://img.shields.io/github/downloads/ThatsJohnny/ox_repairkit/total.svg)  
+  ![Contributors](https://img.shields.io/github/contributors/ThatsJohnny/ox_repairkit.svg)  
+  ![Release](https://img.shields.io/github/release/ThatsJohnny/ox_repairkit.svg)  
+  ![Downloads@Latest](https://img.shields.io/github/downloads/ThatsJohnny/ox_repairkit/latest/total.svg)
+</p>
 
 ## Features  
 - Uses **ox_lib** for progress bars and notifications  
